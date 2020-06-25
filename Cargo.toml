@@ -1,0 +1,7 @@
+[package]
+name = "sha_one"
+version = "0.1.0"
+authors = ["xrop"]
+edition = "2018"
+description = "Implementation of the SHA-1 hash function for educational purposes."
+license = "Unlicense"
